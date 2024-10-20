@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sempre+programando+alguma+coisa)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
 ## Skills:
 
